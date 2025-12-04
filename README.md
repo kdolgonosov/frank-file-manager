@@ -1,5 +1,8 @@
 # Файловый менеджер
 
+Проект доступен по [ссылке](https://frank-file-manager.vercel.app/)
+
+Для локального запуска:
 ```bash
 # Переход в директорию проекта
 cd frank-file-manager
